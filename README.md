@@ -15,3 +15,6 @@ I want provide resources for learning cybersecurity
 Best thing you can do is Try to watch TCM Security free 15 hours course by cybermentor(Heath Adams) best thing you to do. 
 <a href="https://www.youtube.com/watch?v=3FNYvj2U0HM&t=8s">Course Part-1</a>
 <a href="https://www.youtube.com/watch?v=sH4JCwjybGs">Course Part-2</a>
+
+---
+## Bug Bounty Blogs
